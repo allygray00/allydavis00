@@ -1,4 +1,4 @@
-### Hello! I'm Ally 👋
+## Hello! I'm Ally 👋
 
 - 🔭 I’m currently working on building websites for a Dance Studio and a Landscaping company using WordPress!
 - 🌱 I’m currently learning WordPress Development and anything I can!
